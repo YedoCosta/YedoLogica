@@ -1,0 +1,8 @@
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaAluno\bin\Debug\Yedo.TestaAluno.exe.config
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaAluno\bin\Debug\Yedo.TestaAluno.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaAluno\bin\Debug\Yedo.TestaAluno.pdb
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaAluno\obj\Debug\Yedo.TestaAluno.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaAluno\obj\Debug\Yedo.TestaAluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaAluno\obj\Debug\Yedo.TestaAluno.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaAluno\obj\Debug\Yedo.TestaAluno.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaAluno\obj\Debug\Yedo.TestaAluno.pdb

@@ -1,0 +1,8 @@
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCartaoDeCredito\bin\Debug\Yedo.TestaCartaoDeCredito.exe.config
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCartaoDeCredito\bin\Debug\Yedo.TestaCartaoDeCredito.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCartaoDeCredito\bin\Debug\Yedo.TestaCartaoDeCredito.pdb
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCartaoDeCredito\obj\Debug\Yedo.TestaCartaoDeCredito.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCartaoDeCredito\obj\Debug\Yedo.TestaCartaoDeCredito.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCartaoDeCredito\obj\Debug\Yedo.TestaCartaoDeCredito.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCartaoDeCredito\obj\Debug\Yedo.TestaCartaoDeCredito.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCartaoDeCredito\obj\Debug\Yedo.TestaCartaoDeCredito.pdb

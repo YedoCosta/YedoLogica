@@ -1,0 +1,8 @@
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaFuncionario\bin\Debug\Yedo.TestaFuncionario.exe.config
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaFuncionario\bin\Debug\Yedo.TestaFuncionario.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaFuncionario\bin\Debug\Yedo.TestaFuncionario.pdb
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaFuncionario\obj\Debug\Yedo.TestaFuncionario.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaFuncionario\obj\Debug\Yedo.TestaFuncionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaFuncionario\obj\Debug\Yedo.TestaFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaFuncionario\obj\Debug\Yedo.TestaFuncionario.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaFuncionario\obj\Debug\Yedo.TestaFuncionario.pdb

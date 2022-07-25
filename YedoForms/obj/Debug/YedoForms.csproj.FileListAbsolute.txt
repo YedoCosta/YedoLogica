@@ -1,0 +1,11 @@
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoForms\bin\Debug\YedoForms.exe.config
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoForms\bin\Debug\YedoForms.exe
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoForms\bin\Debug\YedoForms.pdb
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoForms\obj\Debug\YedoForms.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoForms\obj\Debug\YedoForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoForms\obj\Debug\YedoForms.Form1.resources
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoForms\obj\Debug\YedoForms.Form2.resources
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoForms\obj\Debug\YedoForms.csproj.GenerateResource.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoForms\obj\Debug\YedoForms.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoForms\obj\Debug\YedoForms.exe
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoForms\obj\Debug\YedoForms.pdb

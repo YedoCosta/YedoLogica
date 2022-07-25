@@ -1,0 +1,8 @@
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaTurma\bin\Debug\Yedo.TestaTurma.exe.config
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaTurma\bin\Debug\Yedo.TestaTurma.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaTurma\bin\Debug\Yedo.TestaTurma.pdb
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaTurma\obj\Debug\Yedo.TestaTurma.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaTurma\obj\Debug\Yedo.TestaTurma.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaTurma\obj\Debug\Yedo.TestaTurma.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaTurma\obj\Debug\Yedo.TestaTurma.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaTurma\obj\Debug\Yedo.TestaTurma.pdb

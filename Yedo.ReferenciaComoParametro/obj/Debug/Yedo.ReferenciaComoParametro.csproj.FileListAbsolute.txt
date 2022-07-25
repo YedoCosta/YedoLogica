@@ -1,0 +1,8 @@
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ReferenciaComoParametro\bin\Debug\Yedo.ReferenciaComoParametro.exe.config
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ReferenciaComoParametro\bin\Debug\Yedo.ReferenciaComoParametro.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ReferenciaComoParametro\bin\Debug\Yedo.ReferenciaComoParametro.pdb
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ReferenciaComoParametro\obj\Debug\Yedo.ReferenciaComoParametro.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ReferenciaComoParametro\obj\Debug\Yedo.ReferenciaComoParametro.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ReferenciaComoParametro\obj\Debug\Yedo.ReferenciaComoParametro.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ReferenciaComoParametro\obj\Debug\Yedo.ReferenciaComoParametro.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ReferenciaComoParametro\obj\Debug\Yedo.ReferenciaComoParametro.pdb

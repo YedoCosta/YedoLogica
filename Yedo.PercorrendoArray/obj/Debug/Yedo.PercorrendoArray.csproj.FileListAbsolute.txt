@@ -1,0 +1,16 @@
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.PercorrendoArray\bin\Debug\Yedo.PercorrendoArray.exe.config
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.PercorrendoArray\bin\Debug\Yedo.PercorrendoArray.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.PercorrendoArray\bin\Debug\Yedo.PercorrendoArray.pdb
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.PercorrendoArray\obj\Debug\Yedo.PercorrendoArray.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.PercorrendoArray\obj\Debug\Yedo.PercorrendoArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.PercorrendoArray\obj\Debug\Yedo.PercorrendoArray.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.PercorrendoArray\obj\Debug\Yedo.PercorrendoArray.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.PercorrendoArray\obj\Debug\Yedo.PercorrendoArray.pdb
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.PercorrendoArray\bin\Debug\Yedo.PercorrendoArray.exe.config
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.PercorrendoArray\bin\Debug\Yedo.PercorrendoArray.exe
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.PercorrendoArray\bin\Debug\Yedo.PercorrendoArray.pdb
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.PercorrendoArray\obj\Debug\Yedo.PercorrendoArray.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.PercorrendoArray\obj\Debug\Yedo.PercorrendoArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.PercorrendoArray\obj\Debug\Yedo.PercorrendoArray.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.PercorrendoArray\obj\Debug\Yedo.PercorrendoArray.exe
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.PercorrendoArray\obj\Debug\Yedo.PercorrendoArray.pdb

@@ -1,0 +1,8 @@
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCliente\bin\Debug\Yedo.TestaCliente.exe.config
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCliente\bin\Debug\Yedo.TestaCliente.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCliente\bin\Debug\Yedo.TestaCliente.pdb
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCliente\obj\Debug\Yedo.TestaCliente.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCliente\obj\Debug\Yedo.TestaCliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCliente\obj\Debug\Yedo.TestaCliente.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCliente\obj\Debug\Yedo.TestaCliente.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.TestaCliente\obj\Debug\Yedo.TestaCliente.pdb

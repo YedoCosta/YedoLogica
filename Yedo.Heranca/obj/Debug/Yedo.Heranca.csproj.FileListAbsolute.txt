@@ -1,0 +1,16 @@
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Heranca\obj\Debug\Yedo.Heranca.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Heranca\obj\Debug\Yedo.Heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Heranca\obj\Debug\Yedo.Heranca.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Heranca\bin\Debug\Yedo.Heranca.exe.config
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Heranca\bin\Debug\Yedo.Heranca.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Heranca\bin\Debug\Yedo.Heranca.pdb
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Heranca\obj\Debug\Yedo.Heranca.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Heranca\obj\Debug\Yedo.Heranca.pdb
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Heranca\bin\Debug\Yedo.Heranca.exe.config
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Heranca\bin\Debug\Yedo.Heranca.exe
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Heranca\bin\Debug\Yedo.Heranca.pdb
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Heranca\obj\Debug\Yedo.Heranca.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Heranca\obj\Debug\Yedo.Heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Heranca\obj\Debug\Yedo.Heranca.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Heranca\obj\Debug\Yedo.Heranca.exe
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Heranca\obj\Debug\Yedo.Heranca.pdb

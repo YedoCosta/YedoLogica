@@ -1,0 +1,16 @@
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ExercicioUm\bin\Debug\Yedo.ExercicioUm.exe.config
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ExercicioUm\bin\Debug\Yedo.ExercicioUm.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ExercicioUm\bin\Debug\Yedo.ExercicioUm.pdb
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ExercicioUm\obj\Debug\Yedo.ExercicioUm.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ExercicioUm\obj\Debug\Yedo.ExercicioUm.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ExercicioUm\obj\Debug\Yedo.ExercicioUm.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ExercicioUm\obj\Debug\Yedo.ExercicioUm.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.ExercicioUm\obj\Debug\Yedo.ExercicioUm.pdb
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.ExercicioUm\bin\Debug\Yedo.ExercicioUm.exe.config
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.ExercicioUm\bin\Debug\Yedo.ExercicioUm.exe
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.ExercicioUm\bin\Debug\Yedo.ExercicioUm.pdb
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.ExercicioUm\obj\Debug\Yedo.ExercicioUm.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.ExercicioUm\obj\Debug\Yedo.ExercicioUm.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.ExercicioUm\obj\Debug\Yedo.ExercicioUm.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.ExercicioUm\obj\Debug\Yedo.ExercicioUm.exe
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.ExercicioUm\obj\Debug\Yedo.ExercicioUm.pdb

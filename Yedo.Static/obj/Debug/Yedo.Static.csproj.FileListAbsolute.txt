@@ -1,0 +1,8 @@
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Static\bin\Debug\Yedo.Static.exe.config
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Static\bin\Debug\Yedo.Static.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Static\bin\Debug\Yedo.Static.pdb
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Static\obj\Debug\Yedo.Static.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Static\obj\Debug\Yedo.Static.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Static\obj\Debug\Yedo.Static.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Static\obj\Debug\Yedo.Static.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Static\obj\Debug\Yedo.Static.pdb

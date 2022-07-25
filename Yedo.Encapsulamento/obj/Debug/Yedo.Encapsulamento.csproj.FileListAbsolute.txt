@@ -1,0 +1,16 @@
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Encapsulamento\bin\Debug\Yedo.Encapsulamento.exe.config
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Encapsulamento\bin\Debug\Yedo.Encapsulamento.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Encapsulamento\bin\Debug\Yedo.Encapsulamento.pdb
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Encapsulamento\obj\Debug\Yedo.Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Encapsulamento\obj\Debug\Yedo.Encapsulamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Encapsulamento\obj\Debug\Yedo.Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Encapsulamento\obj\Debug\Yedo.Encapsulamento.exe
+C:\Users\UltraHP\Documents\Yedo\Yedo.Logica\Yedo.Encapsulamento\obj\Debug\Yedo.Encapsulamento.pdb
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Encapsulamento\bin\Debug\Yedo.Encapsulamento.exe.config
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Encapsulamento\bin\Debug\Yedo.Encapsulamento.exe
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Encapsulamento\bin\Debug\Yedo.Encapsulamento.pdb
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Encapsulamento\obj\Debug\Yedo.Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Encapsulamento\obj\Debug\Yedo.Encapsulamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Encapsulamento\obj\Debug\Yedo.Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Encapsulamento\obj\Debug\Yedo.Encapsulamento.exe
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\Yedo.Encapsulamento\obj\Debug\Yedo.Encapsulamento.pdb

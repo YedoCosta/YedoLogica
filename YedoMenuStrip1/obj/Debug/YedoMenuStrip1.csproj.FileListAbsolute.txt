@@ -1,0 +1,10 @@
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoMenuStrip1\bin\Debug\YedoMenuStrip1.exe.config
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoMenuStrip1\bin\Debug\YedoMenuStrip1.exe
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoMenuStrip1\bin\Debug\YedoMenuStrip1.pdb
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoMenuStrip1\obj\Debug\YedoMenuStrip1.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoMenuStrip1\obj\Debug\YedoMenuStrip1.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoMenuStrip1\obj\Debug\YedoMenuStrip1.Form1.resources
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoMenuStrip1\obj\Debug\YedoMenuStrip1.csproj.GenerateResource.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoMenuStrip1\obj\Debug\YedoMenuStrip1.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoMenuStrip1\obj\Debug\YedoMenuStrip1.exe
+C:\Users\UltraHP\Documents\ProjetosVS2022\Yedo\Yedo.Logica\YedoMenuStrip1\obj\Debug\YedoMenuStrip1.pdb
